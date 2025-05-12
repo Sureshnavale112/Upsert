@@ -1,0 +1,17 @@
+{
+    "name": "My Extension",
+    "version": "1.0",
+    "manifest_version": 3,
+    "web_accessible_resources": [
+      {
+        "resources": [
+          "images/my-icon.png",
+          "scripts/my-injected.js"
+        ],
+        "matches": ["<all_urls>"]
+      }
+    ]
+  }
+  
+
+  
